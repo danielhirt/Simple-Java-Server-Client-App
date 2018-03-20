@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package midterm;
+package app;
 
 /**
  *
  * @author Daniel Hirt
- * @description ITSC 3166 Midterm Project
+ * @description Client/Server App
  * @file Server.java
  * @functionality This file implements the server side of the application.
  */
